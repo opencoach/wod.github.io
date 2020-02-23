@@ -1,0 +1,92 @@
+.images {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 70px;
+}
+.workout {
+  width: 100%;
+  height: 100%;
+}
+.buttons {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+}
+.left {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.right {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+button {
+  padding: 7px 12px;
+  font-size: 14px;
+}
+img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 600px;
+}
+body,
+html {
+  padding: 0;
+  margin: 0;
+  background-color: #f9003c;
+  width: 100%;
+  height: 100%;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#app {
+  width: calc(100% - 4rem);
+  position: absolute;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.wrap {
+  width: 100%;
+  height: 100%;
+}
+
+@font-face {
+    font-family: 'mont_boldbold';
+    src: url('/mont-bold-webfont.47dff3c9.eot');
+    src: url('/mont-bold-webfont.47dff3c9.eot?#iefix') format('embedded-opentype'),
+         url('/mont-bold-webfont.538137de.woff2') format('woff2'),
+         url('/mont-bold-webfont.3507a0ac.woff') format('woff'),
+         url('/mont-bold-webfont.1025170f.ttf') format('truetype'),
+         url('/mont-bold-webfont.da088563.svg#mont_boldbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'montbook';
+    src: url('/mont-book-webfont.cb1474d5.eot');
+    src: url('/mont-book-webfont.cb1474d5.eot?#iefix') format('embedded-opentype'),
+         url('/mont-book-webfont.b1b3aa32.woff2') format('woff2'),
+         url('/mont-book-webfont.cdc80ac2.woff') format('woff'),
+         url('/mont-book-webfont.a719ea7c.ttf') format('truetype'),
+         url('/mont-book-webfont.30ab8e22.svg#montbook') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+/*# sourceMappingURL=/app.263d8344.css.map */
