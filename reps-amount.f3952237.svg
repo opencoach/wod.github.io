@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.421" height="21.724" viewBox="0 0 22.421 21.724">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #8c0021;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Component_15_1" data-name="Component 15 – 1" transform="translate(0 1.414)">
+    <g id="Group_368" data-name="Group 368" transform="translate(-6341 -1756)">
+      <g id="Ellipse_34" data-name="Ellipse 34" class="cls-1" transform="translate(6341 1759)">
+        <circle class="cls-3" cx="4" cy="4" r="4"/>
+        <circle class="cls-4" cx="4" cy="4" r="3"/>
+      </g>
+      <path id="Path_244" data-name="Path 244" class="cls-2" d="M314.585,446.292a6.979,6.979,0,0,0,7.021,6.347" transform="translate(6030.45 1319.806)"/>
+      <path id="Path_246" data-name="Path 246" class="cls-2" d="M325.494,463.2l2.629-2.629-2.629-2.629" transform="translate(6025.297 1311.697)"/>
+    </g>
+    <g id="Group_369" data-name="Group 369" transform="translate(6363.421 1774.896) rotate(180)">
+      <g id="Ellipse_34-2" data-name="Ellipse 34" class="cls-1" transform="translate(6341 1759)">
+        <circle class="cls-3" cx="4" cy="4" r="4"/>
+        <circle class="cls-4" cx="4" cy="4" r="3"/>
+      </g>
+      <path id="Path_244-2" data-name="Path 244" class="cls-2" d="M314.585,446.292a6.979,6.979,0,0,0,7.021,6.347" transform="translate(6030.45 1319.806)"/>
+      <path id="Path_246-2" data-name="Path 246" class="cls-2" d="M325.494,463.2l2.629-2.629-2.629-2.629" transform="translate(6025.297 1311.697)"/>
+    </g>
+  </g>
+</svg>
