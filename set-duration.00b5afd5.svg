@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.926829222906633" height="20.113821105432564"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  
+<g class="currentLayer" style=""><title>Layer 1</title><g id="Component_16_1" data-name="Component 16 – 1" class="">
+    <g id="Ellipse_33" data-name="Ellipse 33" class="cls-1">
+      <circle class="cls-3" cx="10.463414669036865" cy="10.056910663843155" r="9" id="svg_1"/>
+      <circle class="cls-4" cx="10.463414669036865" cy="10.056910663843155" r="8" id="svg_2"/>
+    </g>
+    <path id="Path_247" data-name="Path 247" class="cls-2" d="M14.151414394378662,10.296910434961319 H17.891414394378664 V14.03691043496132 " transform="rotate(180 14.15141487121582,10.296910285949707) "/>
+    <g id="Group_379" data-name="Group 379">
+      <g id="Group_352" data-name="Group 352" transform="rotate(-30 5.063414573669433,1.7769106626510625) ">
+        <path id="Path_248" data-name="Path 248" class="cls-2" d="M4.197414577007294,3.355910688638688 V5.434910688638688 " transform="rotate(180 4.197414398193359,3.3559107780456547) "/>
+      </g>
+      <g id="Group_378" data-name="Group 378" transform="rotate(-150 15.863414764404297,3.5769104957580566) ">
+        <path id="Path_248-2" data-name="Path 248" class="cls-2" d="M15.863414764404297,7.734910640954972 V5.655910640954971 " transform="rotate(180 15.863414764404297,5.655910491943359) "/>
+      </g>
+    </g>
+  </g></g></svg>

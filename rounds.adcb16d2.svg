@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.448979591836732" height="21.959183673469397" style=""><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  
+<g class="currentLayer" style=""><title>Layer 1</title><g id="Component_13_1" data-name="Component 13 – 1" class="selected">
+    <g id="Group_341" data-name="Group 341">
+      <path id="Path_243" data-name="Path 243" class="cls-1" d="M8.726324292451125,3.8145800144970394 a7.049,7.049 0 0 1 5.15,11.864 "/>
+      <path id="Path_244" data-name="Path 244" class="cls-1" d="M3.5773394291699105,6.0526000340282735 a7.049,7.049 0 0 0 5.15,11.869 "/>
+      <path id="Path_245" data-name="Path 245" class="cls-1" d="M9.875323071748028,1.584583676606428 l-2.407,2.407 l2.407,2.407 "/>
+      <path id="Path_246" data-name="Path 246" class="cls-1" d="M7.4623242924511715,20.374598325043905 l2.629,-2.629 l-2.629,-2.629 "/>
+    </g>
+  </g></g></svg>
