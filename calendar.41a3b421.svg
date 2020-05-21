@@ -6,8 +6,8 @@
       }
 
       .cls-1, .cls-2 {
-        stroke: #39444d;
-        stroke-width: 2px;
+        stroke: #0f0f0e;
+        stroke-width: 3px;
       }
 
       .cls-2 {
