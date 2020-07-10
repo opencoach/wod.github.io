@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.962" height="17.95" viewBox="0 0 17.962 17.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #7fafdb;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Component_23_1" data-name="Component 23 – 1" transform="translate(1 1)">
+    <g id="Group_407" data-name="Group 407" transform="translate(-941.832 -415.86)">
+      <g id="Group_405" data-name="Group 405" transform="translate(947.305 426.527)">
+        <path id="Path_274" data-name="Path 274" class="cls-1" d="M953.544,431.417l-2.509-2.509-2.508,2.509" transform="translate(-948.527 -428.908)"/>
+        <path id="Path_275" data-name="Path 275" class="cls-1" d="M951.6,434.191v-1.525" transform="translate(-949.086 -428.908)"/>
+      </g>
+      <g id="Group_406" data-name="Group 406" transform="translate(947.305 415.86)">
+        <path id="Path_276" data-name="Path 276" class="cls-1" d="M948.527,419.254l2.508,2.509,2.509-2.509" transform="translate(-948.527 -416.48)"/>
+        <path id="Path_277" data-name="Path 277" class="cls-1" d="M951.6,415.86v1.525" transform="translate(-949.086 -415.86)"/>
+      </g>
+      <line id="Line_43" data-name="Line 43" class="cls-1" x2="15.962" transform="translate(941.832 423.833)"/>
+    </g>
+  </g>
+</svg>
